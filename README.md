@@ -1,4 +1,3 @@
-Usage
 Ollama llms are required to run the agents. Install it from https://ollama.com/.
 Basic agents, graphs and workflows are provided to understand and refer to while building your own agents.
 
